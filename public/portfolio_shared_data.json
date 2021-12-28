@@ -1,0 +1,59 @@
+{
+  "basic_info": {
+    "name": "Sebastian Mendoza",
+    "titles": [
+      "Front-end Developer",
+      "Chess Player",
+      "Real Estate Agent",
+      "Jiu-Jitsu Fanatic",
+      "Rock/Techno Lover"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/sebass482",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sevlogz",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Chess",
+        "class": "",
+        "level": "95"
+      },
+      {
+        "name": "Rubik's Cubes",
+        "class": "",
+        "level": "95"
+      },
+      {
+        "name": "Beatboxing",
+        "class": "",
+        "level": "80"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Real Estate",
+        "class": "",
+        "level": "75"
+      }
+    ]
+  }
+}
