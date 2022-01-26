@@ -84,7 +84,6 @@ homepage property or json data won't load.
 </pre>
 </details>
 <details>
-<summary>[ 30.11.2020, contributor: <a href="https://github.com/dorota1997">@dorota1997</a> ]</summary>
 <pre>
 - updated readme section
 - fixed problem of json files not being read
