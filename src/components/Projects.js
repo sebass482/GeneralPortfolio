@@ -56,7 +56,7 @@ class Projects extends Component {
         <div className="col-md-12">
           <h1 className="section-title" style={{ color: "black" }}>
             {/* <span>{sectionName}</span> */}
-            <span> Goals for 2022 </span>
+            <span> Goals </span>
           </h1>
           <div className="col-md-12 mx-auto">
             <div className="row mx-auto">{projects}</div>

@@ -3,10 +3,10 @@
     "description_header": "Hola!",
     "description": "👋 Soy Sebastian Mendoza. Disfruto conectar con la gente y resolver problemas complejos. Me encanta el ajedrez y los cubos Rubik. Actualmente soy agente de bienes raices y desarrollador web.",
     "section_name": {
-      "about": "O mnie",
-      "projects": "Projekty",
-      "skills": "Umiejętności",
-      "experience": "Doświadczenie"
+      "about": "Sobre mi",
+      "projects": "Projectos",
+      "skills": "Talentos",
+      "experience": "Experiencia"
     }
   },
   "projects": [
@@ -70,7 +70,7 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
+      "company": "CTS Construction",
       "title": "Front-End Developer",
       "years": "2021",
       "mainTech": ["React, Styled Components"],
@@ -80,8 +80,8 @@
       "company": "Amazon",
       "title": "Warehouse Associate",
       "years": "2020",
-      "mainTech": ["Angular 7/8"],
-      "technologies": []
+      "mainTech": [""],
+      "technologies": [""]
     }
   ]
 }
